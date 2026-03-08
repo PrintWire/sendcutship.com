@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Printing on Send Cut Ship</title>
+    <link>https://sendcutship.com/tags/3d-printing/</link>
+    <description>Recent content in 3D Printing on Send Cut Ship</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sendcutship.com/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DFM for Multi-Process Orders: Designing Parts That Print, Cut, and Machine Together</title>
+      <link>https://sendcutship.com/articles/dfm-guide-multi-process/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://sendcutship.com/articles/dfm-guide-multi-process/</guid>
+      <description>When a product contains 3D-printed, laser-cut, and CNC-machined components, design-for-manufacturing discipline at the interface points eliminates the most common production failures.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sendcutship.com/sitemap.xml

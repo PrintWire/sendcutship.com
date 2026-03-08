@@ -1,0 +1,64 @@
+baseURL = "https://sendcutship.com/"
+languageCode = "en-us"
+title = "Send Cut Ship"
+theme = "printwire-theme"
+
+[params]
+  siteName       = "Send Cut Ship"
+  tagline        = "Upload-and-ship manufacturing: 3D printing, laser cutting & CNC machining from one platform."
+  primaryColor   = "#10b981"
+  bgColor        = "#040d09"
+  fontPrimary    = "Inter"
+  fontSecondary  = "DM Sans"
+  fontURL        = "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,700&display=swap"
+  ogImage        = "https://images.unsplash.com/photo-1629358101753-531fa5a2f661?w=1200&q=80"
+  favicon        = "📦"
+  pubmedQuery    = "additive+manufacturing+on-demand+digital+fabrication+rapid+prototyping"
+  contactEmail   = "maxdavisgroup@gmail.com"
+  web3formsKey   = "6f33053b-6d08-414b-9615-665f88c98da8"
+  xometryId      = "XOMETRY_AFFILIATE_ID"
+  domain         = "sendcutship.com"
+  heroImage      = "https://images.unsplash.com/photo-1629358101753-531fa5a2f661?w=1200&q=80"
+
+[[params.stats]]
+  number = "3"
+  label  = "Manufacturing Processes"
+
+[[params.stats]]
+  number = "Instant"
+  label  = "Multi-Process Quote"
+
+[[params.stats]]
+  number = "24hr"
+  label  = "Production Start"
+
+[[params.stats]]
+  number = "One PO"
+  label  = "Combined Orders"
+
+[[params.services]]
+  title = "3D Printing"
+  icon  = "⬡"
+  image = "https://images.unsplash.com/photo-1564564733489-4f90308b0f7f?w=600&q=80"
+  short = "FDM, SLA, SLS, and DMLS metal printing. Instant quote on upload, 24-hour production start."
+
+[[params.services]]
+  title = "Laser Cutting"
+  icon  = "✦"
+  image = "https://images.unsplash.com/photo-1626299748494-939f18cf52be?w=600&q=80"
+  short = "Sheet metal, acrylic, wood, and fabric. DXF upload, ±0.1 mm precision, same-day quoting."
+
+[[params.services]]
+  title = "CNC Machining"
+  icon  = "⚙"
+  image = "https://images.unsplash.com/photo-1504473089979-b1c4993a9653?w=600&q=80"
+  short = "3-axis and 5-axis milling, turning, and grinding. ISO inspection with every order."
+
+[[params.services]]
+  title = "Multi-Process Assembly"
+  icon  = "◈"
+  image = "https://images.unsplash.com/photo-1629358101753-531fa5a2f661?w=600&q=80"
+  short = "3D print + laser cut + CNC machined parts on a single purchase order — assembled and shipped."
+
+[markup.goldmark.renderer]
+  unsafe = true

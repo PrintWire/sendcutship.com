@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Send Cut Ship</title>
+    <link>https://sendcutship.com/</link>
+    <description>Recent content on Send Cut Ship</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sendcutship.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DFM for Multi-Process Orders: Designing Parts That Print, Cut, and Machine Together</title>
+      <link>https://sendcutship.com/articles/dfm-guide-multi-process/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://sendcutship.com/articles/dfm-guide-multi-process/</guid>
+      <description>When a product contains 3D-printed, laser-cut, and CNC-machined components, design-for-manufacturing discipline at the interface points eliminates the most common production failures.</description>
+    </item>
+    <item>
+      <title>About Send Cut Ship</title>
+      <link>https://sendcutship.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sendcutship.com/about/</guid>
+      <description>&lt;h2 id=&#34;upload-quote-ship&#34;&gt;Upload. Quote. Ship.&lt;/h2&gt;&#xA;&lt;p&gt;Send Cut Ship was built by fabricators, for engineers. The founding team — Max Davis&#xA;(MAXCNC), Ben Stagl (SAIC, 20-year fabrication veteran), and Ally Reza (ChiLab Studio,&#xA;Chicago) — has collectively run hundreds of production runs across additive manufacturing,&#xA;laser cutting, and CNC machining. We built Send Cut Ship because we were tired of managing&#xA;three separate vendors for parts that needed to arrive together.&lt;/p&gt;&#xA;&lt;p&gt;The premise is simple: upload your CAD files, get a single instant quote across all&#xA;processes, approve, and we handle the rest — production, assembly if needed, and shipment&#xA;directly to your door or your contract manufacturer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advertise on Send Cut Ship</title>
+      <link>https://sendcutship.com/advertise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sendcutship.com/advertise/</guid>
+      <description>&lt;h2 id=&#34;advertise-on-send-cut-ship&#34;&gt;Advertise on Send Cut Ship&lt;/h2&gt;&#xA;&lt;p&gt;Send Cut Ship attracts procurement managers, product engineers, and R&amp;amp;D teams&#xA;actively sourcing 3D printing, laser cutting, and CNC machining services. Our audience&#xA;is decision-ready — they arrive with CAD files and production timelines, not just curiosity.&lt;/p&gt;&#xA;&lt;h3 id=&#34;audience-profile&#34;&gt;Audience Profile&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Job titles:&lt;/strong&gt; Mechanical engineers, product designers, procurement officers, prototype leads&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Industry:&lt;/strong&gt; Consumer hardware, aerospace, medical devices, industrial equipment, architecture&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Intent signal:&lt;/strong&gt; High — visitors are actively comparing manufacturing vendors and requesting quotes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;advertising-packages&#34;&gt;Advertising Packages&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Package&lt;/th&gt;&#xA;          &lt;th&gt;Rate&lt;/th&gt;&#xA;          &lt;th&gt;Placement&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Banner Ad (728×90)&lt;/td&gt;&#xA;          &lt;td&gt;$500/month&lt;/td&gt;&#xA;          &lt;td&gt;Homepage leaderboard&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sponsored Content&lt;/td&gt;&#xA;          &lt;td&gt;$1,200/month&lt;/td&gt;&#xA;          &lt;td&gt;Dedicated service feature article&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Network Package&lt;/td&gt;&#xA;          &lt;td&gt;$3,500/month&lt;/td&gt;&#xA;          &lt;td&gt;All PrintWire manufacturing sites&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;priority-sponsors&#34;&gt;Priority Sponsors&lt;/h3&gt;&#xA;&lt;p&gt;Ideal partners include online manufacturing platforms, CAD software vendors, engineering&#xA;material suppliers, and logistics companies serving industrial clients.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact &amp; Quote</title>
+      <link>https://sendcutship.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sendcutship.com/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>https://sendcutship.com/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sendcutship.com/services/</guid>
+      <description>&lt;h2 id=&#34;3d-printing&#34;&gt;3D Printing&lt;/h2&gt;&#xA;&lt;p&gt;Send Cut Ship offers the full spectrum of additive manufacturing — from FDM functional&#xA;prototypes to DMLS titanium end-use parts. Upload your STL or STEP file and receive&#xA;an instant quote with DFM feedback. Materials range from PLA and PETG to Inconel 718&#xA;and Ti6Al4V. Build envelopes up to 800 × 400 × 500 mm. Tolerances ±0.1 mm standard,&#xA;±0.05 mm achievable on SLA/SLS.&lt;/p&gt;&#xA;&lt;h2 id=&#34;laser-cutting&#34;&gt;Laser Cutting&lt;/h2&gt;&#xA;&lt;p&gt;Our laser cutting service handles DXF and DWG uploads for immediate pricing on flat-pattern&#xA;sheet parts. Materials: mild steel, stainless 304/316, aluminum 5052/6061, acrylic,&#xA;polycarbonate, plywood, MDF, and fabric. Maximum sheet size 1,500 × 3,000 mm. Bend&#xA;allowance calculations included for formed parts. Anodizing, powder coating, and&#xA;brushed stainless finishes available.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
