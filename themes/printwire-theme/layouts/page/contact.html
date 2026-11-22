@@ -56,9 +56,10 @@
           <h3 style="margin-bottom:1.5rem;">Send a Message</h3>
           <div class="form-message"></div>
           <form id="contact-form">
+            <input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" style="display:none">
             <input type="hidden" name="access_key" value="6f33053b-6d08-414b-9615-665f88c98da8">
             <input type="hidden" name="cc" value="printwire@gmail.com">
-            <input type="hidden" name="subject" value="Contact — {{ .Site.Title }}">
+            <input type="hidden" name="subject" value="New quote request from sendcutship.com">
 
             <div class="form-group">
               <label class="form-label" for="name">Name</label>
@@ -76,7 +77,17 @@
               <label class="form-label" for="message">Message</label>
               <textarea class="form-textarea" id="message" name="message" placeholder="Tell us more..." required></textarea>
             </div>
-            <button type="submit" class="btn" style="width:100%;">Send Message</button>
+            <div class="form-group">
+<label class="form-label" for="export_control">Is this part subject to ITAR or EAR? <span class="required">*</span></label>
+<select class="form-input" id="export_control" name="export_control" required style="width:100%;padding:0.6rem;">
+<option value="">Select an answer</option>
+<option value="yes">Yes</option>
+<option value="no">No</option>
+<option value="not-sure">Not sure</option>
+</select>
+</div>
+<p class="pw-consent" style="font-size:0.8rem;line-height:1.5;margin:0.9rem 0;opacity:0.9;"><label style="display:flex;gap:0.5rem;align-items:flex-start;font-weight:400;text-transform:none;letter-spacing:0;"><input type="checkbox" name="consent" value="agreed" required style="width:auto;flex:none;margin-top:0.2rem;"> <span>I have the right to share these files. I agree that PrintWire may send my request, files and contact details to manufacturers to obtain pricing, and that they may contact me about this request. If I place an order, my contract is with the manufacturer, not PrintWire. I accept the <a href="/terms/" style="text-decoration:underline;">Terms</a> and <a href="/privacy/" style="text-decoration:underline;">Privacy Policy</a>.</span></label></p>
+<button type="submit" class="btn" style="width:100%;">Send Message</button>
           </form>
         </div>
       </div>

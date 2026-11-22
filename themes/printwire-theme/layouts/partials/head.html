@@ -31,39 +31,7 @@
 
 {{/* JSON-LD Structured Data */}}
 <script type="application/ld+json">
-[
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}",
-    "description": "{{ .Site.Params.tagline }}",
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "contactType": "customer service",
-      "url": "{{ .Site.BaseURL }}contact/"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}"
-  }
-  {{ range .Site.Params.services }},
-  {
-    "@context": "https://schema.org",
-    "@type": "Service",
-    "name": "{{ .name }}",
-    "provider": {
-      "@type": "Organization",
-      "name": "{{ $.Site.Title }}",
-      "url": "{{ $.Site.BaseURL }}"
-    },
-    "url": "{{ $.Site.BaseURL }}services/"
-  }
-  {{ end }}
-]
+{"@context":"https://schema.org","@type":"WebSite","name":"{{ .Site.Title }}","url":"{{ .Site.BaseURL }}","description":"{{ .Site.Params.tagline }}"}
 </script>
 
 {{/* AdSense — activate by adding adsenseId to config.toml */}}
