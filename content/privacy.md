@@ -3,7 +3,7 @@ title: "Privacy"
 type: "page"
 layout: "plain"
 description: "Privacy page for Send Cut Ship: what the contact form collects and who processes it."
-subtitle: "What Send Cut Ship (sendcutship.com) collects today. Last updated 21 November 2026."
+subtitle: "What Send Cut Ship (sendcutship.com) collects today. Last updated 22 November 2026."
 ---
 
 ## Who runs this site
